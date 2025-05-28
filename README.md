@@ -9,10 +9,10 @@
 
 I'm a passionate Full-Stack Developer with 3+ years of hands-on experience, including freelance work and personal projects built with industry-standard tools. I specialize in:
 
-- **Frontend Development**: React, Next.js, and Tailwind CSS
+- **Frontend Development**: React, Next.js, Zustand and Tailwind CSS
 - **Backend APIs**: Node.js, Express, and Nest.js
-- **Database Design**: PostgreSQL, MongoDB, and MySQL
-- **Dev Tools**: Docker, Git, AWS S3, REST APIs, CI/CD, and Linux
+- **Databases**: PostgreSQL, MongoDB, and MySQL
+- **Tools**: Docker, Git, Jest, AWS S3, REST APIs, CI/CD, Figma
 
 I love writing clean code, applying best practices, and delivering real value to users and teams.
 
