@@ -1,11 +1,11 @@
-# 👋 Hey! I'm Ricardo Albarenque
+# Hey! I'm Ricardo Albarenque
 
 **Full-Stack Web Developer** focused on building clean, scalable, and user-centered applications.  
-📍 Based in Gijón, Asturias · 🇪🇸  
-💻 TypeScript · React · Next.js · Node.js · Nest.js
+Based in Gijón, Asturias · Spain
+TypeScript · React · Next.js · Node.js · Nest.js
 
 
-## 🧠 About Me
+## About Me
 
 I'm a passionate Full-Stack Developer with 3+ years of hands-on experience, including freelance work and personal projects built with industry-standard tools. I specialize in:
 
@@ -17,7 +17,7 @@ I'm a passionate Full-Stack Developer with 3+ years of hands-on experience, incl
 I love writing clean code, applying best practices, and delivering real value to users and teams.
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 Here are a few highlights — check the repos for code and details:
 
@@ -34,7 +34,7 @@ An eCommerce platform with image uploads, secure payment integration, and an adm
 A RESTful API using hexagonal architecture and JWT-based authentication. Includes complete order management and docs.
 
 
-## 📈 Experience & Education
+## Experience & Education
 
 - **Frontend Developer** @ Infomoto S.L. (Freelance, 2022)  
   Built reusable React components, integrated APIs, and focused on UX and scalability.
@@ -43,7 +43,7 @@ A RESTful API using hexagonal architecture and JWT-based authentication. Include
   *City of Bristol College · Distinction · 2023*
 
 
-## 🗣️ Languages
+## Languages
 
 - 🇪🇸 Spanish — Native
 - 🇬🇧 English — Advanced (C1)
