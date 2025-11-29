@@ -1,7 +1,6 @@
 # Hey! I'm Ricardo Albarenque
 
 **Full-Stack Web Developer** focused on building clean, scalable, and user-centered applications.  
-Based in Gijón, Asturias · Spain
 TypeScript · React · Next.js · Node.js · Nest.js
 
 
