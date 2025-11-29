@@ -45,13 +45,13 @@ A RESTful API using hexagonal architecture and JWT-based authentication. Include
 
 ## Languages
 
-- 🇪🇸 Spanish — Native
-- 🇬🇧 English — Advanced (C1)
+- Spanish — Native
+- English — Advanced (C1)
 
 
-## 📫 Let's connect!
+## Let's connect!
 
-- 📧 rico.albarenque@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/ricardo-albarenque)
+- rico.albarenque@gmail.com
+- [LinkedIn](https://linkedin.com/in/ricardo-albarenque)
 
 Thanks for stopping by! Feel free to explore my work and reach out if you're interested in collaborating 🚀
