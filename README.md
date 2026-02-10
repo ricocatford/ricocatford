@@ -8,10 +8,10 @@ TypeScript · React · Next.js · Node.js · Nest.js
 
 I'm a passionate Full-Stack Developer with 3+ years of hands-on experience, including freelance work and personal projects built with industry-standard tools. I specialize in:
 
-- **Frontend Development**: React, Next.js, Zustand and Tailwind CSS
-- **Backend APIs**: Node.js, Express, and Nest.js
+- **Frontend Development**: React, Next.js, Zustand, Tailwind CSS, Bootstrap, Jest, Vitest, PHP
+- **Backend APIs**: Node.js, Express, Nest.js, PHP
 - **Databases**: PostgreSQL, MongoDB, and MySQL
-- **Tools**: Docker, Git, Jest, AWS S3, REST APIs, CI/CD, Figma
+- **Tools**: Docker, Git, AWS S3, REST APIs, CI/CD, Figma
 
 I love writing clean code, applying best practices, and delivering real value to users and teams.
 
@@ -19,6 +19,10 @@ I love writing clean code, applying best practices, and delivering real value to
 ## Featured Projects
 
 Here are a few highlights — check the repos for code and details:
+
+### 🔹 [Pulseflow](https://github.com/ricocatford/pulseflow)
+> **Next.js · TypeScript · TailwindCSS · Shadcn/UI · Supabase (PostgreSQL) · Prisma · Inngest · Google Gemini**  
+AI-native scraping engine that monitors web signals and triggers LLM-summarized alerts.
 
 ### 🔹 [Coinmaster](https://github.com/ricocatford/coinmaster)
 > **Next.js · TypeScript · Zustand · REST API**  
