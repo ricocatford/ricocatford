@@ -39,7 +39,10 @@ A RESTful API using hexagonal architecture and JWT-based authentication. Include
 
 ## Experience & Education
 
-- **Frontend Developer** @ Infomoto S.L. (Freelance, 2022)  
+- **Founding Frontend Developer** @ FitTech AI Startup (Freelance, 2025 - Present)
+Leading frontend architecture and development, building responsive interfaces with React and TypeScript.
+
+- **Frontend Developer** @ Infomoto S.L. (Freelance, 2023 - 2024)  
   Built reusable React components, integrated APIs, and focused on UX and scalability.
 
 - **Level 5 Diploma in Full-Stack Web Development**
